@@ -28,5 +28,13 @@
       <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-10-2032/episode-2026-06-10.mp3</guid>
       <itunes:duration>166</itunes:duration>
     </item>
+    <item>
+      <title><![CDATA[Morning AI Briefing - June 11, 2026]]></title>
+      <description><![CDATA[Today's AI news from Simon Willison, The Pragmatic Engineer, AI Snake Oil, MIT Technology Review. 7 stories in approximately 4 minutes.]]></description>
+      <pubDate>Thu, 11 Jun 2026 20:34:04 +0000</pubDate>
+      <enclosure url="https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-11-2034/episode-2026-06-11.mp3" length="3730989" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-11-2034/episode-2026-06-11.mp3</guid>
+      <itunes:duration>233</itunes:duration>
+    </item>
   </channel>
 </rss>
