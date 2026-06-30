@@ -100,5 +100,13 @@
       <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-25-0703/episode-2026-06-25.mp3</guid>
       <itunes:duration>206</itunes:duration>
     </item>
+    <item>
+      <title><![CDATA[Morning AI Briefing - June 30, 2026]]></title>
+      <description><![CDATA[Today's AI news from Simon Willison, MIT Technology Review, TLDR AI. 6 stories in approximately 2 minutes.]]></description>
+      <pubDate>Tue, 30 Jun 2026 09:49:46 +0000</pubDate>
+      <enclosure url="https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-30-0949/episode-2026-06-30.mp3" length="2398509" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-30-0949/episode-2026-06-30.mp3</guid>
+      <itunes:duration>149</itunes:duration>
+    </item>
   </channel>
 </rss>
