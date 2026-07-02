@@ -108,5 +108,13 @@
       <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-06-30-0949/episode-2026-06-30.mp3</guid>
       <itunes:duration>149</itunes:duration>
     </item>
+    <item>
+      <title><![CDATA[Morning AI Briefing - July 02, 2026]]></title>
+      <description><![CDATA[Today's AI news from MIT Technology Review, The Pragmatic Engineer. 3 stories in approximately 3 minutes.]]></description>
+      <pubDate>Thu, 02 Jul 2026 08:07:03 +0000</pubDate>
+      <enclosure url="https://github.com/dblairx/morning-podcast/releases/download/episode-2026-07-02-0807/episode-2026-07-02.mp3" length="2892141" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-07-02-0807/episode-2026-07-02.mp3</guid>
+      <itunes:duration>180</itunes:duration>
+    </item>
   </channel>
 </rss>
