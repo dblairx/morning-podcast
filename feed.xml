@@ -172,5 +172,13 @@
       <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-03-0842/episode-2026-08-03.mp3</guid>
       <itunes:duration>158</itunes:duration>
     </item>
+    <item>
+      <title><![CDATA[Morning AI Briefing - August 04, 2026]]></title>
+      <description><![CDATA[Today's AI news from Simon Willison, MIT Technology Review. 5 stories in approximately 3 minutes.]]></description>
+      <pubDate>Tue, 04 Aug 2026 07:03:06 +0000</pubDate>
+      <enclosure url="https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-04-0703/episode-2026-08-04.mp3" length="2624685" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-04-0703/episode-2026-08-04.mp3</guid>
+      <itunes:duration>164</itunes:duration>
+    </item>
   </channel>
 </rss>
