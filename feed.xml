@@ -188,5 +188,13 @@
       <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-05-1914/episode-2026-08-05.mp3</guid>
       <itunes:duration>173</itunes:duration>
     </item>
+    <item>
+      <title><![CDATA[Morning AI Briefing - August 06, 2026]]></title>
+      <description><![CDATA[Today's AI news from MIT Technology Review, Simon Willison, AI Snake Oil. 5 stories in approximately 3 minutes.]]></description>
+      <pubDate>Thu, 06 Aug 2026 07:03:23 +0000</pubDate>
+      <enclosure url="https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-06-0703/episode-2026-08-06.mp3" length="2752749" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/dblairx/morning-podcast/releases/download/episode-2026-08-06-0703/episode-2026-08-06.mp3</guid>
+      <itunes:duration>172</itunes:duration>
+    </item>
   </channel>
 </rss>
